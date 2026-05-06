@@ -1,0 +1,12 @@
+:root {
+  /* Fixed 'Helventica' typo to 'Helvetica' */
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* Added the missing '*' selector to apply reset to all elements */
+* {
+  margin: 0;
+  padding: 0;
+  /* Fixed 'box-sizig' typo to 'box-sizing' */
+  box-sizing: border-box;
+}
